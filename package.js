@@ -13,5 +13,5 @@ Package.onUse(function(api) {
 });
 
 Cordova.depends({
-  "com.percolatestudio.cordova.safereload": "https://github.com/concats/cordova-plugin-safe-reload/tarball/2cd176129bc320d100425f03c84bcd9a205e7628"
+  "com.percolatestudio.cordova.safereload": "https://github.com/concats/cordova-plugin-safe-reload/tarball/1fc8c2cbff82e0542c13f6681dda2caf73268f41"
 });
